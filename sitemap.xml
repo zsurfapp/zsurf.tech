@@ -33,8 +33,8 @@
   <url><loc>https://zsurf.tech/articles/svelte-6-runes-reactive-programming-refined-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/ai-code-review-tools-compared-the-real-production-tier-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/vpn-replacement-zero-trust-network-access-in-practice-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-review-the-best-android-phone-of-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-full-specs-and-what-they-mean-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-review-the-best-android-phone-of-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/homelab-2026-the-mini-itx-build-that-punches-above-its-weight.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/ai-camera-comparison-2026-which-phone-takes-the-best-photos.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/best-budget-phones-of-2026-flagship-quality-at-30-percent-the-price.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -50,13 +50,13 @@
   <url><loc>https://zsurf.tech/articles/github-actions-at-scale-monorepo-patterns-that-actually-work-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/secure-software-supply-chain-slsa-sigstore-and-you-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/android-app-permissions-explained-what-you-are-really-giving-away-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/how-to-disable-autocorrect-on-android-3-proven-methods-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/android-battery-optimization-12-settings-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/google-play-store-tips-8-features-most-users-never-discover-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/android-storage-management-how-to-free-up-space-and-keep-it-that-way-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/google-play-store-tips-8-features-most-users-never-discover-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/how-to-disable-autocorrect-on-android-3-proven-methods-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/iphone-hidden-apps-7-features-apple-does-not-advertise-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/how-to-block-ads-on-android-in-2026-the-complete-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/fastapi-vs-hono-which-backend-wins-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/how-to-block-ads-on-android-in-2026-the-complete-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/android-data-backup-guide-how-to-never-lose-a-photo-again-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/android-recovery-mode-explained-the-complete-survival-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/css-container-queries-in-production-the-pattern-library-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -73,10 +73,11 @@
   <url><loc>https://zsurf.tech/articles/cloudflare-workers-in-2026-the-edge-platform-matured.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/rust-vs-go-in-2026-which-should-you-actually-learn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/cutting-your-aws-bill-by-60-without-downsizing-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/vue-4-and-the-composition-api-where-it-stands-now-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/12-web-performance-wins-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/vue-4-and-the-composition-api-where-it-stands-now-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/best-laptops-for-developers-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/zero-trust-security-a-practical-starter-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/esp32-projects-that-punch-above-their-weight.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/top-10-ai-tools-reshaping-work-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/about/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://zsurf.tech/contact/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
