@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="12 measurable web performance optimizations that will move your Lighthouse score from 60 to 95+." />
+  <link rel="canonical" href="https://zsurf.tech/articles/web-performance-tips.html" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml" />
+  <title>12 Web Performance Wins That Actually Matter — zsurf.tech</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="../index.html" class="logo"><span class="logo-mark">z</span><span class="logo-text">surf<span class="dot">.tech</span></span></a>
+      <nav class="nav" id="nav">
+        <a href="../index.html" class="nav-link">Home</a>
+        <a href="index.html" class="nav-link active">Articles</a>
+        <a href="../about/index.html" class="nav-link">About</a>
+        <a href="../contact/index.html" class="nav-link">Contact</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle">☰</button>
+    </div>
+  </header>
+
+  <article class="article">
+    <header class="article-header">
+      <div class="article-meta"><span class="post-tag">Web Dev</span> · Sep 3, 2026 · <span class="reading-time"></span></div>
+      <h1 class="article-title">12 Web Performance Wins That Actually Matter</h1>
+      <div class="article-hero thumb-web"></div>
+    </header>
+
+    <div class="article-body">
+      <p>Skip the framework debates. These 12 measurable optimizations will move your Lighthouse score from 60 to 95+ — and they don't require rewriting your app.</p>
+
+      <h2>1. Compress everything</h2>
+      <p>Enable Brotli or Gzip on your origin or CDN. Text payloads shrink 60–80%.</p>
+
+      <h2>2. Defer non-critical CSS</h2>
+      <p>Inline critical CSS, lazy-load the rest. Your first paint drops dramatically.</p>
+
+      <h2>3. Use modern image formats</h2>
+      <p>AVIF and WebP cut image weight by 30–50% vs JPEG/PNG.</p>
+
+      <h2>4. Set explicit width/height on images</h2>
+      <p>Prevents layout shift (CLS). Browsers reserve space before the image loads.</p>
+
+      <h2>5. Preconnect to third-party origins</h2>
+      <p><code>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;</code> saves 100ms+ on first requests.</p>
+
+      <h2>6. Code-split your bundles</h2>
+      <p>Route-level code splitting with React.lazy or dynamic imports. Users download only what they need.</p>
+
+      <h2>7. Use a CDN</h2>
+      <p>Cloudflare, Fastly, BunnyCDN — pick one. Latency drops to your users.</p>
+
+      <h2>8. HTTP/3 + early hints</h2>
+      <p>103 Early Hints let the browser preload assets before the response body arrives.</p>
+
+      <h2>9. Cache aggressively</h2>
+      <p>Long-lived cache headers + content hashing = repeat visits are instant.</p>
+
+      <h2>10. Lazy-load below-the-fold images</h2>
+      <p><code>loading="lazy"</code> everywhere except hero images.</p>
+
+      <h2>11. Reduce JavaScript</h2>
+      <p>Audit your bundles. Every 100KB of JS on mobile costs ~1s of TTI.</p>
+
+      <h2>12. Measure in the real world</h2>
+      <p>Lighthouse is a starting point. Real User Monitoring (RUM) tells you what users actually experience.</p>
+
+      <blockquote>Performance isn't a one-time project. It's a habit. Measure, optimize, ship, repeat.</blockquote>
+    </div>
+  </article>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div class="footer-col"><h4>zsurf.tech</h4><p>Independent technology publication.</p></div>
+      <div class="footer-col"><h4>Read</h4><ul><li><a href="index.html">All Articles</a></li></ul></div>
+      <div class="footer-col"><h4>Company</h4><ul><li><a href="../about/index.html">About</a></li><li><a href="../privacy/index.html">Privacy</a></li></ul></div>
+    </div>
+    <div class="footer-bottom"><div class="container"><p>© 2026 zsurf.tech</p></div></div>
+  </footer>
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

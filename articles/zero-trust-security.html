@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="A practical starter guide to Zero Trust security for small teams — identity, segmentation, and verification." />
+  <link rel="canonical" href="https://zsurf.tech/articles/zero-trust-security.html" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml" />
+  <title>Zero Trust Security: A Practical Starter Guide — zsurf.tech</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="../index.html" class="logo"><span class="logo-mark">z</span><span class="logo-text">surf<span class="dot">.tech</span></span></a>
+      <nav class="nav" id="nav">
+        <a href="../index.html" class="nav-link">Home</a>
+        <a href="index.html" class="nav-link active">Articles</a>
+        <a href="../about/index.html" class="nav-link">About</a>
+        <a href="../contact/index.html" class="nav-link">Contact</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle">☰</button>
+    </div>
+  </header>
+
+  <article class="article">
+    <header class="article-header">
+      <div class="article-meta"><span class="post-tag">Cybersecurity</span> · Sep 5, 2026 · <span class="reading-time"></span></div>
+      <h1 class="article-title">Zero Trust Security: A Practical Starter Guide</h1>
+      <div class="article-hero thumb-sec"></div>
+    </header>
+
+    <div class="article-body">
+      <p>The old model — trust everything inside your VPN, distrust everything outside — is broken. Attackers who've phished one credential now have free run of your entire internal network. Zero Trust flips the script.</p>
+
+      <h2>The core principle</h2>
+      <blockquote>Never trust, always verify.</blockquote>
+      <p>Every request, from every user, on every device, should be authenticated, authorized, and logged — regardless of network location.</p>
+
+      <h2>The three pillars</h2>
+      <h3>1. Identity</h3>
+      <p>Treat identity as the new perimeter. Strong MFA everywhere, phishing-resistant where possible (FIDO2/WebAuthn), short-lived credentials, and just-in-time privilege escalation.</p>
+
+      <h3>2. Segmentation</h3>
+      <p>Microsegment your network. A compromised web server shouldn't be able to reach your database directly. Service-to-service traffic should be authenticated via mTLS.</p>
+
+      <h3>3. Verification</h3>
+      <p>Continuously verify device posture, location, and behavior. A laptop that suddenly authenticates from a new continent at 3am shouldn't get the same access as a logged-in user at HQ.</p>
+
+      <h2>Where to start</h2>
+      <p>If you're a small team, don't try to boil the ocean. Start with:</p>
+      <ul>
+        <li>MFA on every account, no exceptions</li>
+        <li>Single Sign-On (Okta, Google Workspace, Entra ID)</li>
+        <li>Privileged Access Management for admin accounts</li>
+        <li>Service mesh or sidecar proxies for internal traffic</li>
+        <li>Logging everything to a SIEM</li>
+      </ul>
+
+      <p>Zero Trust isn't a product you buy — it's a posture you adopt. Start small, iterate, and never trust a network boundary again.</p>
+    </div>
+  </article>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div class="footer-col"><h4>zsurf.tech</h4><p>Independent technology publication.</p></div>
+      <div class="footer-col"><h4>Read</h4><ul><li><a href="index.html">All Articles</a></li></ul></div>
+      <div class="footer-col"><h4>Company</h4><ul><li><a href="../about/index.html">About</a></li><li><a href="../privacy/index.html">Privacy</a></li></ul></div>
+    </div>
+    <div class="footer-bottom"><div class="container"><p>© 2026 zsurf.tech</p></div></div>
+  </footer>
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>
