@@ -10,47 +10,7 @@
     });
   }
 
-  // Cookie consent — AdSense-compliant (loads scripts only after accept)
-  var banner = document.getElementById('cookieBanner');
-  var accept = document.getElementById('acceptCookies');
-  var KEY = 'zsurf_consent_v1';
-
-  function loadAdSense() {
-    // Real AdSense code goes here once approved:
-    // var s = document.createElement('script');
-    // s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXX';
-    // s.async = true; s.crossOrigin = 'anonymous';
-    // document.head.appendChild(s);
-    console.log('[zsurf] Consent given — AdSense would load here.');
-  }
-
-  function hideBanner() {
-    if (!banner) return;
-    banner.hidden = true;
-    banner.style.display = 'none';
-  }
-
-  try {
-    var consent = localStorage.getItem(KEY);
-    if (banner) {
-      if (consent === 'all') {
-        hideBanner();
-      } else {
-        // No consent yet — show banner
-        banner.hidden = false;
-        banner.style.display = 'flex';
-      }
-      if (accept) {
-        accept.addEventListener('click', function () {
-          try { localStorage.setItem(KEY, 'all'); } catch (e) {}
-          hideBanner();
-          loadAdSense();
-        });
-      }
-    }
-    // Already accepted previously — load immediately
-    if (consent === 'all') loadAdSense();
-  } catch (e) { /* localStorage blocked — fail safe */ }
+  // Cookie consent removed: banner and consent handling are disabled.
 
   // Smooth scroll for in-page anchors
   document.querySelectorAll('a[href^="#"]').forEach(function (a) {
