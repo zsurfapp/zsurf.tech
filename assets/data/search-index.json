@@ -1,0 +1,686 @@
+[
+{
+"slug": "12-web-performance-wins-that-actually-matter-in-2026",
+"url": "articles/12-web-performance-wins-that-actually-matter-in-2026.html",
+"title": "12 Web Performance Wins That Actually Matter",
+"category": "Web Dev",
+"date": "Sep 3, 2026",
+"excerpt": "Skip the framework debates. These are the 12 measurable optimizations that will move your Lighthouse score from 60 to 95 plus and, more importantly, your real user metrics from \"frustrating\" to \"fast\"",
+"read_min": 10
+},
+{
+"slug": "ai-camera-comparison-2026-which-phone-takes-the-best-photos",
+"url": "articles/ai-camera-comparison-2026-which-phone-takes-the-best-photos.html",
+"title": "AI Camera Comparison 2026: Which Phone Takes the Best Photos",
+"category": "AI",
+"date": "Jun 8, 2026",
+"excerpt": "AI cameras in 2026 phones use on device neural networks to enhance photos in real time. We shot 1,000 photos with each flagship in identical conditions to find out which AI is actually the smartest. T",
+"read_min": 10
+},
+{
+"slug": "ai-code-review-tools-compared-the-real-production-tier-in-2026",
+"url": "articles/ai-code-review-tools-compared-the-real-production-tier-in-2026.html",
+"title": "AI Code Review Tools Compared: The Real Production Tier",
+"category": "AI",
+"date": "May 26, 2026",
+"excerpt": "This is a deep, practical guide to ai code review tools compared: the real production tier, written from production experience and validated against the public data we could find. We tested, benchmark",
+"read_min": 10
+},
+{
+"slug": "ai-content-writing-in-2026-the-workflow-that-actually-works",
+"url": "articles/ai-content-writing-in-2026-the-workflow-that-actually-works.html",
+"title": "AI Content Writing in 2026: The Workflow That Actually Works",
+"category": "AI",
+"date": "Aug 1, 2026",
+"excerpt": "AI content writing moved from a curiosity in 2023 to a default expectation in 2026. The teams shipping the best work are not the ones avoiding AI. They are the ones with clear processes, rigorous edit",
+"read_min": 10
+},
+{
+"slug": "ai-for-security-defense-what-actually-works-in-2026",
+"url": "articles/ai-for-security-defense-what-actually-works-in-2026.html",
+"title": "AI for Security Defense: What Actually Works",
+"category": "Cybersecurity",
+"date": "Aug 24, 2026",
+"excerpt": "This is a deep, practical guide to ai for security defense: what actually works, written from production experience and validated against the public data we could find. We tested, benchmarked, and bro",
+"read_min": 10
+},
+{
+"slug": "android-app-permissions-explained-what-you-are-really-giving-away-in-2026",
+"url": "articles/android-app-permissions-explained-what-you-are-really-giving-away-in-2026.html",
+"title": "Android App Permissions Explained: What You Are Really Giving Away",
+"category": "Cybersecurity",
+"date": "Jul 23, 2026",
+"excerpt": "Android app permissions control what apps can access on your phone. Most users accept every permission request without reading them, which is a privacy and security risk. Here is the complete guide to",
+"read_min": 10
+},
+{
+"slug": "android-battery-optimization-12-settings-that-actually-matter-in-2026",
+"url": "articles/android-battery-optimization-12-settings-that-actually-matter-in-2026.html",
+"title": "Android Battery Optimization: 12 Settings That Actually Matter",
+"category": "Gadgets",
+"date": "Jul 23, 2026",
+"excerpt": "Android battery life in 2026 is generally good, but heavy users still struggle to make it through a full day. These are the settings and habits that actually move the needle, ranked by impact.",
+"read_min": 10
+},
+{
+"slug": "android-data-backup-guide-how-to-never-lose-a-photo-again-in-2026",
+"url": "articles/android-data-backup-guide-how-to-never-lose-a-photo-again-in-2026.html",
+"title": "Android Data Backup Guide: How to Never Lose a Photo Again",
+"category": "Programming",
+"date": "Jul 30, 2026",
+"excerpt": "Your phone contains your entire digital life. Photos, messages, contacts, app data, documents. Losing it all to a broken screen, lost phone, or failed update would be devastating. Here is how to set u",
+"read_min": 10
+},
+{
+"slug": "android-recovery-mode-explained-the-complete-survival-guide-in-2026",
+"url": "articles/android-recovery-mode-explained-the-complete-survival-guide-in-2026.html",
+"title": "Android Recovery Mode Explained: The Complete Survival Guide",
+"category": "Programming",
+"date": "Jul 30, 2026",
+"excerpt": "Android recovery mode is the safety net every power user needs to know. It is how you factory reset, flash a system update, install a custom ROM, or recover a phone that will not boot. The procedure v",
+"read_min": 10
+},
+{
+"slug": "android-root-in-2026-what-it-is-why-it-matters-who-should-do-it",
+"url": "articles/android-root-in-2026-what-it-is-why-it-matters-who-should-do-it.html",
+"title": "Android Root in 2026: What It Is, Why It Matters, Who Should Do It",
+"category": "Cybersecurity",
+"date": "Aug 12, 2026",
+"excerpt": "Rooting an Android phone used to be a rite of passage for enthusiasts. In 2026, with locked bootloaders and SafetyNet blocking banking apps, the question of whether to root is more nuanced than ever. ",
+"read_min": 10
+},
+{
+"slug": "android-security-in-2026-the-practical-guide-every-user-needs",
+"url": "articles/android-security-in-2026-the-practical-guide-every-user-needs.html",
+"title": "Android Security in 2026: The Practical Guide Every User Needs",
+"category": "Cybersecurity",
+"date": "Aug 12, 2026",
+"excerpt": "Android security has improved dramatically, but threats still exist. Most successful attacks in 2026 come from social engineering, not exploits. Here is the practical security guide every Android user",
+"read_min": 10
+},
+{
+"slug": "android-storage-management-how-to-free-up-space-and-keep-it-that-way-in-2026",
+"url": "articles/android-storage-management-how-to-free-up-space-and-keep-it-that-way-in-2026.html",
+"title": "Android Storage Management: How to Free Up Space and Keep It That Way",
+"category": "Programming",
+"date": "Jul 23, 2026",
+"excerpt": "Modern phones ship with 128 GB to 1 TB of storage, but it fills up faster than most people expect. Photos, videos, apps, and system caches can eat 200 GB in a year. Here is how to keep your phone from",
+"read_min": 10
+},
+{
+"slug": "apple-silicon-mac-pros-the-workstation-tier-arrives-in-2026",
+"url": "articles/apple-silicon-mac-pros-the-workstation-tier-arrives-in-2026.html",
+"title": "Apple Silicon Mac Pros: The Workstation Tier Arrives",
+"category": "Gadgets",
+"date": "Mar 17, 2026",
+"excerpt": "This is a deep, practical guide to apple silicon mac pros: the workstation tier arrives, written from production experience and validated against the public data we could find. We tested, benchmarked,",
+"read_min": 10
+},
+{
+"slug": "best-budget-phones-of-2026-flagship-quality-at-30-percent-the-price",
+"url": "articles/best-budget-phones-of-2026-flagship-quality-at-30-percent-the-price.html",
+"title": "Best Budget Phones of 2026: Flagship Quality at 30 Percent the Price",
+"category": "Gadgets",
+"date": "Jun 8, 2026",
+"excerpt": "You do not need to spend USD 1,000 to get a great phone in 2026. The budget and mid range categories are better than ever, with the Pixel 9a and Galaxy A56 leading the pack. Here is how to get 90 perc",
+"read_min": 10
+},
+{
+"slug": "best-flagship-phones-of-2026-a-definitive-ranking",
+"url": "articles/best-flagship-phones-of-2026-a-definitive-ranking.html",
+"title": "Best Flagship Phones of 2026: A Definitive Ranking",
+"category": "Gadgets",
+"date": "Jun 8, 2026",
+"excerpt": "After testing every major flagship released in the first half of 2026, here is the definitive ranking. We focused on the criteria that actually matter in daily use: battery life, camera quality, softw",
+"read_min": 10
+},
+{
+"slug": "best-laptops-for-developers-in-2026",
+"url": "articles/best-laptops-for-developers-in-2026.html",
+"title": "Best Laptops for Developers in 2026",
+"category": "Gadgets",
+"date": "Sep 4, 2026",
+"excerpt": "We benchmarked 14 laptops in 2026 across compile speed, battery life, thermal throttling, and developer ergonomics. These are the machines that actually held up under a full workday of TypeScript, Rus",
+"read_min": 9
+},
+{
+"slug": "browser-fingerprinting-in-2026-defenses-that-work",
+"url": "articles/browser-fingerprinting-in-2026-defenses-that-work.html",
+"title": "Browser Fingerprinting in 2026: Defenses That Work",
+"category": "Cybersecurity",
+"date": "May 11, 2026",
+"excerpt": "This is a deep, practical guide to browser fingerprinting in 2026: defenses that work, written from production experience and validated against the public data we could find. We tested, benchmarked, a",
+"read_min": 10
+},
+{
+"slug": "bun-vs-deno-vs-node-in-2026-the-javascript-runtime-race",
+"url": "articles/bun-vs-deno-vs-node-in-2026-the-javascript-runtime-race.html",
+"title": "Bun vs Deno vs Node in 2026: The JavaScript Runtime Race",
+"category": "Programming",
+"date": "Jun 20, 2026",
+"excerpt": "This is a deep, practical guide to bun vs deno vs node in 2026: the javascript runtime race, written from production experience and validated against the public data we could find. We tested, benchmar",
+"read_min": 10
+},
+{
+"slug": "cloudflare-workers-in-2026-the-edge-platform-matured",
+"url": "articles/cloudflare-workers-in-2026-the-edge-platform-matured.html",
+"title": "Cloudflare Workers in 2026: The Edge Platform Matured",
+"category": "Cloud",
+"date": "Aug 29, 2026",
+"excerpt": "This is a deep, practical guide to cloudflare workers in 2026: the edge platform matured, written from production experience and validated against the public data we could find. We tested, benchmarked",
+"read_min": 10
+},
+{
+"slug": "css-container-queries-in-production-the-pattern-library-in-2026",
+"url": "articles/css-container-queries-in-production-the-pattern-library-in-2026.html",
+"title": "CSS Container Queries in Production: The Pattern Library",
+"category": "Web Dev",
+"date": "Jul 30, 2026",
+"excerpt": "This is a deep, practical guide to css container queries in production: the pattern library, written from production experience and validated against the public data we could find. We tested, benchmar",
+"read_min": 10
+},
+{
+"slug": "cutting-your-aws-bill-by-60-without-downsizing-in-2026",
+"url": "articles/cutting-your-aws-bill-by-60-without-downsizing-in-2026.html",
+"title": "Cutting Your AWS Bill by 60% ,  Without Downsizing",
+"category": "Cloud",
+"date": "Sep 2, 2026",
+"excerpt": "Our team cut six figures off annual cloud spend without downsizing a single workload. Every tactic below is something we actually shipped, not a slide deck idea. If you run production workloads on AWS",
+"read_min": 10
+},
+{
+"slug": "deno-kv-in-production-one-year-of-lessons-in-2026",
+"url": "articles/deno-kv-in-production-one-year-of-lessons-in-2026.html",
+"title": "Deno KV in Production: One Year of Lessons",
+"category": "Programming",
+"date": "Aug 19, 2026",
+"excerpt": "This is a deep, practical guide to deno kv in production: one year of lessons, written from production experience and validated against the public data we could find. We tested, benchmarked, and broke",
+"read_min": 10
+},
+{
+"slug": "design-systems-in-2026-tokens-themes-and-tokens-everywhere",
+"url": "articles/design-systems-in-2026-tokens-themes-and-tokens-everywhere.html",
+"title": "Design Systems in 2026: Tokens, Themes, and Tokens Everywhere",
+"category": "Web Dev",
+"date": "Apr 6, 2026",
+"excerpt": "This is a deep, practical guide to design systems in 2026: tokens, themes, and tokens everywhere, written from production experience and validated against the public data we could find. We tested, ben",
+"read_min": 10
+},
+{
+"slug": "edge-computing-in-2026-why-latency-became-the-new-currency",
+"url": "articles/edge-computing-in-2026-why-latency-became-the-new-currency.html",
+"title": "Edge Computing in 2026: Why Latency Became the New Currency",
+"category": "Cloud",
+"date": "Jan 1, 2026",
+"excerpt": "Latency has quietly become the most valuable resource in computing. In 2026, the question is not whether to push compute to the edge, but how much of your stack can survive the round trip to a regiona",
+"read_min": 11
+},
+{
+"slug": "edge-databases-in-production-turso-neon-and-d1-compared-in-2026",
+"url": "articles/edge-databases-in-production-turso-neon-and-d1-compared-in-2026.html",
+"title": "Edge Databases in Production: Turso, Neon, and D1 Compared",
+"category": "Cloud",
+"date": "Jul 10, 2026",
+"excerpt": "This is a deep, practical guide to edge databases in production: turso, neon, and d1 compared, written from production experience and validated against the public data we could find. We tested, benchm",
+"read_min": 10
+},
+{
+"slug": "fastapi-vs-hono-which-backend-wins-in-2026",
+"url": "articles/fastapi-vs-hono-which-backend-wins-in-2026.html",
+"title": "FastAPI vs Hono: Which Backend Wins in 2026",
+"category": "Programming",
+"date": "Jul 25, 2026",
+"excerpt": "This is a deep, practical guide to fastapi vs hono: which backend wins in 2026, written from production experience and validated against the public data we could find. We tested, benchmarked, and brok",
+"read_min": 10
+},
+{
+"slug": "finops-in-2026-the-discipline-that-saved-cloud",
+"url": "articles/finops-in-2026-the-discipline-that-saved-cloud.html",
+"title": "FinOps in 2026: The Discipline That Saved Cloud",
+"category": "Cloud",
+"date": "Feb 15, 2026",
+"excerpt": "This is a deep, practical guide to finops in 2026: the discipline that saved cloud, written from production experience and validated against the public data we could find. We tested, benchmarked, and ",
+"read_min": 10
+},
+{
+"slug": "github-actions-at-scale-monorepo-patterns-that-actually-work-in-2026",
+"url": "articles/github-actions-at-scale-monorepo-patterns-that-actually-work-in-2026.html",
+"title": "GitHub Actions at Scale: Monorepo Patterns That Actually Work",
+"category": "Cloud",
+"date": "Jul 15, 2026",
+"excerpt": "This is a deep, practical guide to github actions at scale: monorepo patterns that actually work, written from production experience and validated against the public data we could find. We tested, ben",
+"read_min": 10
+},
+{
+"slug": "gitops-face-off-argo-cd-vs-flux-in-2026",
+"url": "articles/gitops-face-off-argo-cd-vs-flux-in-2026.html",
+"title": "GitOps Face-Off: Argo CD vs Flux in 2026",
+"category": "Cloud",
+"date": "Apr 16, 2026",
+"excerpt": "This is a deep, practical guide to gitops face-off: argo cd vs flux in 2026, written from production experience and validated against the public data we could find. We tested, benchmarked, and broke t",
+"read_min": 10
+},
+{
+"slug": "google-play-store-tips-8-features-most-users-never-discover-in-2026",
+"url": "articles/google-play-store-tips-8-features-most-users-never-discover-in-2026.html",
+"title": "Google Play Store Tips: 8 Features Most Users Never Discover",
+"category": "Programming",
+"date": "Jul 23, 2026",
+"excerpt": "The Google Play Store is the gateway to most Android apps. Most users only use search, but there are many features that make finding, evaluating, and installing apps much better. Here are the tips tha",
+"read_min": 10
+},
+{
+"slug": "grpc-vs-rest-in-2026-when-each-actually-wins",
+"url": "articles/grpc-vs-rest-in-2026-when-each-actually-wins.html",
+"title": "gRPC vs REST in 2026: When Each Actually Wins",
+"category": "Programming",
+"date": "Mar 22, 2026",
+"excerpt": "This is a deep, practical guide to grpc vs rest in 2026: when each actually wins, written from production experience and validated against the public data we could find. We tested, benchmarked, and br",
+"read_min": 10
+},
+{
+"slug": "homelab-2026-the-mini-itx-build-that-punches-above-its-weight",
+"url": "articles/homelab-2026-the-mini-itx-build-that-punches-above-its-weight.html",
+"title": "Homelab 2026: The Mini-ITX Build That Punches Above Its Weight",
+"category": "Gadgets",
+"date": "Jun 5, 2026",
+"excerpt": "This is a deep, practical guide to homelab 2026: the mini-itx build that punches above its weight, written from production experience and validated against the public data we could find. We tested, be",
+"read_min": 10
+},
+{
+"slug": "how-to-block-ads-on-android-in-2026-the-complete-guide",
+"url": "articles/how-to-block-ads-on-android-in-2026-the-complete-guide.html",
+"title": "How to Block Ads on Android in 2026: The Complete Guide",
+"category": "Cybersecurity",
+"date": "Jul 25, 2026",
+"excerpt": "Android ads have gotten more aggressive in 2026. System level ad blocking is the only reliable defense. Here is how to set it up in 30 minutes, whether you have a rooted device or not.",
+"read_min": 10
+},
+{
+"slug": "how-to-disable-autocorrect-on-android-3-proven-methods-in-2026",
+"url": "articles/how-to-disable-autocorrect-on-android-3-proven-methods-in-2026.html",
+"title": "How to Disable Autocorrect on Android: 3 Proven Methods",
+"category": "Web Dev",
+"date": "Jul 23, 2026",
+"excerpt": "Autocorrect on Android is more aggressive than ever, and the new AI powered prediction in Gboard makes mistakes that the older system would not have. Here is how to tame it without losing the producti",
+"read_min": 10
+},
+{
+"slug": "how-to-run-android-apps-on-windows-in-2026",
+"url": "articles/how-to-run-android-apps-on-windows-in-2026.html",
+"title": "How to Run Android Apps on Windows in 2026",
+"category": "Web Dev",
+"date": "Jul 30, 2026",
+"excerpt": "Running Android apps on Windows is finally a first class experience. Microsoft Phone Link works well for messaging and notifications, but for full app access you need an Android subsystem. Here is how",
+"read_min": 10
+},
+{
+"slug": "iphone-hidden-apps-7-features-apple-does-not-advertise-in-2026",
+"url": "articles/iphone-hidden-apps-7-features-apple-does-not-advertise-in-2026.html",
+"title": "iPhone Hidden Apps: 7 Features Apple Does Not Advertise",
+"category": "Gadgets",
+"date": "Jul 24, 2026",
+"excerpt": "Apple ships a number of hidden and pre installed apps on every iPhone that most users never open. Some are genuinely useful. Some are placeholders for features not yet enabled in your region. We spent",
+"read_min": 10
+},
+{
+"slug": "kubernetes-cost-optimization-12-tactics-that-saved-real-money-in-2026",
+"url": "articles/kubernetes-cost-optimization-12-tactics-that-saved-real-money-in-2026.html",
+"title": "Kubernetes Cost Optimization: 12 Tactics That Saved Real Money",
+"category": "Cloud",
+"date": "May 1, 2026",
+"excerpt": "This is a deep, practical guide to kubernetes cost optimization: 12 tactics that saved real money, written from production experience and validated against the public data we could find. We tested, be",
+"read_min": 10
+},
+{
+"slug": "kubernetes-operators-from-yaml-hell-to-declarative-automation-in-2026",
+"url": "articles/kubernetes-operators-from-yaml-hell-to-declarative-automation-in-2026.html",
+"title": "Kubernetes Operators: From YAML Hell to Declarative Automation",
+"category": "Cloud",
+"date": "Jan 11, 2026",
+"excerpt": "This is a deep, practical guide to kubernetes operators: from yaml hell to declarative automation, written from production experience and validated against the public data we could find. We tested, be",
+"read_min": 10
+},
+{
+"slug": "llm-cost-economics-how-to-spend-less-and-ship-more-in-2026",
+"url": "articles/llm-cost-economics-how-to-spend-less-and-ship-more-in-2026.html",
+"title": "LLM Cost Economics: How to Spend Less and Ship More",
+"category": "AI",
+"date": "Mar 7, 2026",
+"excerpt": "This is a deep, practical guide to llm cost economics: how to spend less and ship more, written from production experience and validated against the public data we could find. We tested, benchmarked, ",
+"read_min": 10
+},
+{
+"slug": "llm-evals-in-production-beyond-vibes-based-testing-in-2026",
+"url": "articles/llm-evals-in-production-beyond-vibes-based-testing-in-2026.html",
+"title": "LLM Evals in Production: Beyond Vibes-Based Testing",
+"category": "AI",
+"date": "Jul 5, 2026",
+"excerpt": "This is a deep, practical guide to llm evals in production: beyond vibes-based testing, written from production experience and validated against the public data we could find. We tested, benchmarked, ",
+"read_min": 10
+},
+{
+"slug": "macos-26-one-year-later-the-wins-and-the-woes-in-2026",
+"url": "articles/macos-26-one-year-later-the-wins-and-the-woes-in-2026.html",
+"title": "macOS 26 One Year Later: The Wins and the Woes",
+"category": "Gadgets",
+"date": "Jan 31, 2026",
+"excerpt": "This is a deep, practical guide to macos 26 one year later: the wins and the woes, written from production experience and validated against the public data we could find. We tested, benchmarked, and b",
+"read_min": 10
+},
+{
+"slug": "mlops-platforms-compared-12-tools-1-verdict-in-2026",
+"url": "articles/mlops-platforms-compared-12-tools-1-verdict-in-2026.html",
+"title": "MLOps Platforms Compared: 12 Tools, 1 Verdict",
+"category": "AI",
+"date": "Feb 10, 2026",
+"excerpt": "This is a deep, practical guide to mlops platforms compared: 12 tools, 1 verdict, written from production experience and validated against the public data we could find. We tested, benchmarked, and br",
+"read_min": 10
+},
+{
+"slug": "mobile-banking-security-in-2026-how-to-keep-your-money-safe",
+"url": "articles/mobile-banking-security-in-2026-how-to-keep-your-money-safe.html",
+"title": "Mobile Banking Security in 2026: How to Keep Your Money Safe",
+"category": "Cybersecurity",
+"date": "Aug 12, 2026",
+"excerpt": "Mobile banking is the primary way most people manage money in 2026. The apps have gotten more secure, but the threats have evolved. Here is how to keep your money safe without losing convenience.",
+"read_min": 10
+},
+{
+"slug": "monorepo-at-scale-pnpm-workspaces-turborepo-in-2026",
+"url": "articles/monorepo-at-scale-pnpm-workspaces-turborepo-in-2026.html",
+"title": "Monorepo at Scale: pnpm Workspaces + Turborepo in 2026",
+"category": "Web Dev",
+"date": "Jun 30, 2026",
+"excerpt": "This is a deep, practical guide to monorepo at scale: pnpm workspaces + turborepo in 2026, written from production experience and validated against the public data we could find. We tested, benchmarke",
+"read_min": 10
+},
+{
+"slug": "opentelemetry-won-what-the-migration-looks-like-in-2026",
+"url": "articles/opentelemetry-won-what-the-migration-looks-like-in-2026.html",
+"title": "OpenTelemetry Won: What the Migration Looks Like",
+"category": "Cloud",
+"date": "Jun 10, 2026",
+"excerpt": "This is a deep, practical guide to opentelemetry won: what the migration looks like, written from production experience and validated against the public data we could find. We tested, benchmarked, and",
+"read_min": 10
+},
+{
+"slug": "passkeys-killed-the-password-the-2026-transition",
+"url": "articles/passkeys-killed-the-password-the-2026-transition.html",
+"title": "Passkeys Killed the Password: The 2026 Transition",
+"category": "Cybersecurity",
+"date": "Jan 21, 2026",
+"excerpt": "This is a deep, practical guide to passkeys killed the password: the 2026 transition, written from production experience and validated against the public data we could find. We tested, benchmarked, an",
+"read_min": 10
+},
+{
+"slug": "passwordless-b2b-saas-the-migration-playbook-in-2026",
+"url": "articles/passwordless-b2b-saas-the-migration-playbook-in-2026.html",
+"title": "Passwordless B2B SaaS: The Migration Playbook",
+"category": "Cybersecurity",
+"date": "Jun 25, 2026",
+"excerpt": "This is a deep, practical guide to passwordless b2b saas: the migration playbook, written from production experience and validated against the public data we could find. We tested, benchmarked, and br",
+"read_min": 10
+},
+{
+"slug": "post-quantum-cryptography-the-rollout-nobody-is-ready-for-in-2026",
+"url": "articles/post-quantum-cryptography-the-rollout-nobody-is-ready-for-in-2026.html",
+"title": "Post-Quantum Cryptography: The Rollout Nobody Is Ready For",
+"category": "Cybersecurity",
+"date": "Feb 5, 2026",
+"excerpt": "This is a deep, practical guide to post-quantum cryptography: the rollout nobody is ready for, written from production experience and validated against the public data we could find. We tested, benchm",
+"read_min": 10
+},
+{
+"slug": "postgresql-18-the-features-that-actually-matter-in-2026",
+"url": "articles/postgresql-18-the-features-that-actually-matter-in-2026.html",
+"title": "PostgreSQL 18: The Features That Actually Matter",
+"category": "Programming",
+"date": "Feb 25, 2026",
+"excerpt": "This is a deep, practical guide to postgresql 18: the features that actually matter, written from production experience and validated against the public data we could find. We tested, benchmarked, and",
+"read_min": 10
+},
+{
+"slug": "rag-vs-fine-tuning-in-2026-the-decision-matrix",
+"url": "articles/rag-vs-fine-tuning-in-2026-the-decision-matrix.html",
+"title": "RAG vs Fine-Tuning in 2026: The Decision Matrix",
+"category": "AI",
+"date": "Aug 4, 2026",
+"excerpt": "This is a deep, practical guide to rag vs fine-tuning in 2026: the decision matrix, written from production experience and validated against the public data we could find. We tested, benchmarked, and ",
+"read_min": 10
+},
+{
+"slug": "react-server-components-one-year-of-production-lessons-in-2026",
+"url": "articles/react-server-components-one-year-of-production-lessons-in-2026.html",
+"title": "React Server Components: One Year of Production Lessons",
+"category": "Web Dev",
+"date": "Feb 20, 2026",
+"excerpt": "This is a deep, practical guide to react server components: one year of production lessons, written from production experience and validated against the public data we could find. We tested, benchmark",
+"read_min": 10
+},
+{
+"slug": "rootless-docker-is-now-production-ready-in-2026",
+"url": "articles/rootless-docker-is-now-production-ready-in-2026.html",
+"title": "Rootless Docker Is Now Production-Ready",
+"category": "Cloud",
+"date": "May 6, 2026",
+"excerpt": "This is a deep, practical guide to rootless docker is now production-ready, written from production experience and validated against the public data we could find. We tested, benchmarked, and broke th",
+"read_min": 10
+},
+{
+"slug": "running-llama-4-locally-a-developer-survival-guide-in-2026",
+"url": "articles/running-llama-4-locally-a-developer-survival-guide-in-2026.html",
+"title": "Running Llama 4 Locally: A Developer Survival Guide",
+"category": "AI",
+"date": "Apr 26, 2026",
+"excerpt": "This is a deep, practical guide to running llama 4 locally: a developer survival guide, written from production experience and validated against the public data we could find. We tested, benchmarked, ",
+"read_min": 10
+},
+{
+"slug": "rust-async-stabilized-what-the-ecosystem-looks-like-now-in-2026",
+"url": "articles/rust-async-stabilized-what-the-ecosystem-looks-like-now-in-2026.html",
+"title": "Rust Async Stabilized: What the Ecosystem Looks Like Now",
+"category": "Programming",
+"date": "Jan 26, 2026",
+"excerpt": "This is a deep, practical guide to rust async stabilized: what the ecosystem looks like now, written from production experience and validated against the public data we could find. We tested, benchmar",
+"read_min": 10
+},
+{
+"slug": "rust-vs-go-in-2026-which-should-you-actually-learn",
+"url": "articles/rust-vs-go-in-2026-which-should-you-actually-learn.html",
+"title": "Rust vs Go in 2026: Which Should You Actually Learn?",
+"category": "Programming",
+"date": "Sep 1, 2026",
+"excerpt": "This is not a fanboy comparison. Rust and Go both win in 2026, but they win in different places. We hired engineers into both ecosystems, ran production workloads in both, and surveyed 240 teams about",
+"read_min": 10
+},
+{
+"slug": "samsung-galaxy-s26-ultra-full-specs-and-what-they-mean-in-2026",
+"url": "articles/samsung-galaxy-s26-ultra-full-specs-and-what-they-mean-in-2026.html",
+"title": "Samsung Galaxy S26 Ultra: Full Specs and What They Mean",
+"category": "Gadgets",
+"date": "Jun 4, 2026",
+"excerpt": "Samsung's 2026 flagship ships with a more efficient LTPO display, the new Snapdragon 8 Elite Gen 2, and a periscope telephoto that finally rivals the dedicated cameras from a few years ago. Here is th",
+"read_min": 10
+},
+{
+"slug": "samsung-galaxy-s26-ultra-review-the-best-android-phone-of-2026",
+"url": "articles/samsung-galaxy-s26-ultra-review-the-best-android-phone-of-2026.html",
+"title": "Samsung Galaxy S26 Ultra Review: The Best Android Phone of 2026",
+"category": "Gadgets",
+"date": "Jun 4, 2026",
+"excerpt": "Samsung's 2026 flagship lands with a more refined titanium frame, the largest vapor chamber ever shipped on a Galaxy, and a periscope telephoto that finally closes the zoom gap with the competition. W",
+"read_min": 11
+},
+{
+"slug": "secure-software-supply-chain-slsa-sigstore-and-you-in-2026",
+"url": "articles/secure-software-supply-chain-slsa-sigstore-and-you-in-2026.html",
+"title": "Secure Software Supply Chain: SLSA, Sigstore, and You",
+"category": "Cybersecurity",
+"date": "Jul 20, 2026",
+"excerpt": "This is a deep, practical guide to secure software supply chain: slsa, sigstore, and you, written from production experience and validated against the public data we could find. We tested, benchmarked",
+"read_min": 10
+},
+{
+"slug": "self-hosting-supabase-when-it-pays-off-in-2026",
+"url": "articles/self-hosting-supabase-when-it-pays-off-in-2026.html",
+"title": "Self-Hosting Supabase: When It Pays Off",
+"category": "Cloud",
+"date": "Apr 11, 2026",
+"excerpt": "This is a deep, practical guide to self-hosting supabase: when it pays off, written from production experience and validated against the public data we could find. We tested, benchmarked, and broke th",
+"read_min": 10
+},
+{
+"slug": "self-sovereign-identity-why-2026-was-the-tipping-point",
+"url": "articles/self-sovereign-identity-why-2026-was-the-tipping-point.html",
+"title": "Self-Sovereign Identity: Why 2026 Was the Tipping Point",
+"category": "Cybersecurity",
+"date": "Aug 14, 2026",
+"excerpt": "This is a deep, practical guide to self-sovereign identity: why 2026 was the tipping point, written from production experience and validated against the public data we could find. We tested, benchmark",
+"read_min": 10
+},
+{
+"slug": "small-language-models-are-eating-the-market-in-2026",
+"url": "articles/small-language-models-are-eating-the-market-in-2026.html",
+"title": "Small Language Models Are Eating the Market",
+"category": "AI",
+"date": "Apr 1, 2026",
+"excerpt": "This is a deep, practical guide to small language models are eating the market, written from production experience and validated against the public data we could find. We tested, benchmarked, and brok",
+"read_min": 10
+},
+{
+"slug": "smartphone-buying-guide-2026-which-phone-should-you-buy",
+"url": "articles/smartphone-buying-guide-2026-which-phone-should-you-buy.html",
+"title": "Smartphone Buying Guide 2026: Which Phone Should You Buy",
+"category": "Gadgets",
+"date": "Jun 8, 2026",
+"excerpt": "Buying a smartphone in 2026 is more confusing than ever. There are 40+ major models across 8 brands, each with three or four variants. This guide cuts through the marketing and tells you exactly which",
+"read_min": 10
+},
+{
+"slug": "soc-2-and-iso-27001-for-startups-the-lean-path-in-2026",
+"url": "articles/soc-2-and-iso-27001-for-startups-the-lean-path-in-2026.html",
+"title": "SOC 2 and ISO 27001 for Startups: The Lean Path",
+"category": "Cybersecurity",
+"date": "Mar 27, 2026",
+"excerpt": "This is a deep, practical guide to soc 2 and iso 27001 for startups: the lean path, written from production experience and validated against the public data we could find. We tested, benchmarked, and ",
+"read_min": 10
+},
+{
+"slug": "svelte-6-runes-reactive-programming-refined-in-2026",
+"url": "articles/svelte-6-runes-reactive-programming-refined-in-2026.html",
+"title": "Svelte 6 Runes: Reactive Programming, Refined",
+"category": "Web Dev",
+"date": "May 21, 2026",
+"excerpt": "This is a deep, practical guide to svelte 6 runes: reactive programming, refined, written from production experience and validated against the public data we could find. We tested, benchmarked, and br",
+"read_min": 10
+},
+{
+"slug": "tailwind-css-v4-the-framework-that-finally-clicked-in-2026",
+"url": "articles/tailwind-css-v4-the-framework-that-finally-clicked-in-2026.html",
+"title": "Tailwind CSS v4: The Framework That Finally Clicked",
+"category": "Web Dev",
+"date": "Apr 21, 2026",
+"excerpt": "This is a deep, practical guide to tailwind css v4: the framework that finally clicked, written from production experience and validated against the public data we could find. We tested, benchmarked, ",
+"read_min": 10
+},
+{
+"slug": "top-10-ai-tools-reshaping-work-in-2026",
+"url": "articles/top-10-ai-tools-reshaping-work-in-2026.html",
+"title": "Top 10 AI Tools Reshaping Work in 2026",
+"category": "AI",
+"date": "Sep 6, 2026",
+"excerpt": "AI in 2026 is not a chatbot on your phone. It is an invisible layer running through your editor, your inbox, your IDE, and your customer support pipeline. The tools on this list are the ones that move",
+"read_min": 10
+},
+{
+"slug": "tpm-attestation-becomes-mandatory-what-changed-in-2026",
+"url": "articles/tpm-attestation-becomes-mandatory-what-changed-in-2026.html",
+"title": "TPM Attestation Becomes Mandatory: What Changed",
+"category": "Cybersecurity",
+"date": "Mar 2, 2026",
+"excerpt": "This is a deep, practical guide to tpm attestation becomes mandatory: what changed, written from production experience and validated against the public data we could find. We tested, benchmarked, and ",
+"read_min": 10
+},
+{
+"slug": "typescript-6-the-features-worth-the-upgrade-in-2026",
+"url": "articles/typescript-6-the-features-worth-the-upgrade-in-2026.html",
+"title": "TypeScript 6: The Features Worth the Upgrade",
+"category": "Programming",
+"date": "May 16, 2026",
+"excerpt": "This is a deep, practical guide to typescript 6: the features worth the upgrade, written from production experience and validated against the public data we could find. We tested, benchmarked, and bro",
+"read_min": 10
+},
+{
+"slug": "vector-databases-in-2026-postgres-killed-the-standalone",
+"url": "articles/vector-databases-in-2026-postgres-killed-the-standalone.html",
+"title": "Vector Databases in 2026: Postgres Killed the Standalone",
+"category": "AI",
+"date": "Jan 16, 2026",
+"excerpt": "This is a deep, practical guide to vector databases in 2026: postgres killed the standalone, written from production experience and validated against the public data we could find. We tested, benchmar",
+"read_min": 10
+},
+{
+"slug": "vpn-replacement-zero-trust-network-access-in-practice-in-2026",
+"url": "articles/vpn-replacement-zero-trust-network-access-in-practice-in-2026.html",
+"title": "VPN Replacement: Zero Trust Network Access in Practice",
+"category": "Cybersecurity",
+"date": "May 31, 2026",
+"excerpt": "This is a deep, practical guide to vpn replacement: zero trust network access in practice, written from production experience and validated against the public data we could find. We tested, benchmarke",
+"read_min": 10
+},
+{
+"slug": "vue-4-and-the-composition-api-where-it-stands-now-in-2026",
+"url": "articles/vue-4-and-the-composition-api-where-it-stands-now-in-2026.html",
+"title": "Vue 4 and the Composition API: Where It Stands Now",
+"category": "Web Dev",
+"date": "Sep 3, 2026",
+"excerpt": "This is a deep, practical guide to vue 4 and the composition api: where it stands now, written from production experience and validated against the public data we could find. We tested, benchmarked, a",
+"read_min": 10
+},
+{
+"slug": "webassembly-at-the-edge-cloudflare-workers-vs-fastly-compute-in-2026",
+"url": "articles/webassembly-at-the-edge-cloudflare-workers-vs-fastly-compute-in-2026.html",
+"title": "WebAssembly at the Edge: Cloudflare Workers vs Fastly Compute",
+"category": "Web Dev",
+"date": "Mar 12, 2026",
+"excerpt": "This is a deep, practical guide to webassembly at the edge: cloudflare workers vs fastly compute, written from production experience and validated against the public data we could find. We tested, ben",
+"read_min": 10
+},
+{
+"slug": "webassembly-component-model-the-future-of-polyglot-in-2026",
+"url": "articles/webassembly-component-model-the-future-of-polyglot-in-2026.html",
+"title": "WebAssembly Component Model: The Future of Polyglot",
+"category": "Programming",
+"date": "Jun 15, 2026",
+"excerpt": "This is a deep, practical guide to webassembly component model: the future of polyglot, written from production experience and validated against the public data we could find. We tested, benchmarked, ",
+"read_min": 10
+},
+{
+"slug": "webassembly-goes-mainstream-the-2026-reality-check",
+"url": "articles/webassembly-goes-mainstream-the-2026-reality-check.html",
+"title": "WebAssembly Goes Mainstream: The 2026 Reality Check",
+"category": "Programming",
+"date": "Jan 6, 2026",
+"excerpt": "This is a deep, practical guide to webassembly goes mainstream: the 2026 reality check, written from production experience and validated against the public data we could find. We tested, benchmarked, ",
+"read_min": 10
+},
+{
+"slug": "webassembly-on-mobile-a-real-production-story-in-2026",
+"url": "articles/webassembly-on-mobile-a-real-production-story-in-2026.html",
+"title": "WebAssembly on Mobile: A Real Production Story",
+"category": "Programming",
+"date": "Aug 9, 2026",
+"excerpt": "This is a deep, practical guide to webassembly on mobile: a real production story, written from production experience and validated against the public data we could find. We tested, benchmarked, and b",
+"read_min": 10
+},
+{
+"slug": "zero-trust-security-a-practical-starter-guide-in-2026",
+"url": "articles/zero-trust-security-a-practical-starter-guide-in-2026.html",
+"title": "Zero Trust Security: A Practical Starter Guide",
+"category": "Cybersecurity",
+"date": "Sep 5, 2026",
+"excerpt": "Zero Trust is not a product you can buy. It is an architectural stance: every request is authenticated, every session is authorized, and every assumption about network location is removed. The 2026 re",
+"read_min": 9
+}
+]
