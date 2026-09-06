@@ -10,21 +10,35 @@
     });
   }
 
-  // Cookie consent
+  // Cookie consent — AdSense-compliant (loads scripts only after accept)
   var banner = document.getElementById('cookieBanner');
   var accept = document.getElementById('acceptCookies');
-  var KEY = 'zsurf_cookie_consent_v1';
+  var KEY = 'zsurf_consent_v1';
+
+  function loadAdSense() {
+    // Real AdSense code goes here once approved:
+    // var s = document.createElement('script');
+    // s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXX';
+    // s.async = true; s.crossOrigin = 'anonymous';
+    // document.head.appendChild(s);
+    console.log('[zsurf] Consent given — AdSense would load here.');
+  }
+
   try {
+    var consent = localStorage.getItem(KEY);
     if (banner) {
-      if (!localStorage.getItem(KEY)) banner.hidden = false;
+      if (!consent) banner.hidden = false;
       if (accept) {
         accept.addEventListener('click', function () {
-          localStorage.setItem(KEY, '1');
+          localStorage.setItem(KEY, 'all');
           banner.hidden = true;
+          loadAdSense();
         });
       }
     }
-  } catch (e) { /* localStorage blocked — ignore */ }
+    // Already accepted previously — load immediately
+    if (consent === 'all') loadAdSense();
+  } catch (e) { /* localStorage blocked — fail safe: ask again */ }
 
   // Smooth scroll for in-page anchors
   document.querySelectorAll('a[href^="#"]').forEach(function (a) {
