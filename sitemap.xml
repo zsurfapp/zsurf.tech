@@ -2,12 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://zsurf.tech/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://zsurf.tech/articles/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://zsurf.tech/articles/ai-code-review-tools.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/ai-security-defense.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/ai-tools-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/zero-trust-security.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/apple-silicon-macs-pro.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/best-laptops-developers.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/web-performance-tips.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/browser-fingerprint-tracking.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/bun-vs-deno-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/cloud-cost-finops.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/cloud-cost-optimization.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/cloudflare-workers-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/css-container-queries-prod.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/deno-kv-production.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/design-systems-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/docker-rootless-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/edge-computing-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/edge-databases-turso.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/fastapi-vs-hono.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/github-actions-monorepo.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/gitops-argo-vs-flux.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/grpc-vs-rest-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/homelab-2026-build.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/kubernetes-cost-optimization.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/kubernetes-v2-operators.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/llama-4-local-dev.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/llm-cost-economics.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/llm-evals-production.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/macos-26-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/mlops-platforms-compared.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/monorepo-pnpm-turbo.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/observability-opentelemetry.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/passkeys-everywhere.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/passwordless-b2b-saas.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/post-quantum-crypto-rollout.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/postgres-18-features.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/rag-vs-fine-tuning-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/react-server-components.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/rust-async-stabilized.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/articles/rust-vs-go.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/secure-supply-chain-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/self-hosted-supabase.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/self-sovereign-identity.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/small-language-models.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/soc2-iso27001-startups.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/svelte-6-runes.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/tailwind-v4-review.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/tpm-attestation-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/typescript-6-features.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/vector-databases-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/vpn-replacement-zero-trust.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/vue-4-composition-api.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/wasm-component-model.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/wasm-on-edge-workers.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/wasm-on-mobile-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/web-performance-tips.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/webassembly-mainstream.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://zsurf.tech/articles/zero-trust-security.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://zsurf.tech/about/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://zsurf.tech/contact/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://zsurf.tech/privacy/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
