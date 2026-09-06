@@ -10,22 +10,66 @@
   <title>GitOps Face-Off: Argo CD vs Flux in 2026  - zsurf.tech</title>
 </head>
 <body>
+    <!-- Header -->
   <header class="site-header">
-    <div class="container nav-wrap">
-      <a href="../index.html" class="logo"><span class="logo-text">zsurf<span class="dot">.tech</span></span></a>
+    <div class="header-top">
+      <div class="container header-top-wrap">
+        <p class="header-tagline">
+          <span class="header-dot"></span>
+          Independent technology publication. Surfing the tech wave since 2026.
+        </p>
+        <div class="header-top-links">
+          <a href="{about}">About</a>
+          <a href="{contact}">Contact</a>
+          <a href="{editorial}">Editorial Standards</a>
+        </div>
+      </div>
+    </div>
 
-      <form class="site-search" id="siteSearchForm" role="search" aria-label="Search articles">
-        <input type="search" id="siteSearch" placeholder="Search articles..." autocomplete="off" aria-label="Search articles" />
-        <button type="submit" class="search-submit" aria-label="Search">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+    <div class="header-main">
+      <div class="container header-wrap">
+        <a href="{home}" class="brand">
+          <span class="brand-mark">z</span>
+          <span class="brand-text">
+            <span class="brand-name">zsurf<span class="brand-dot">.tech</span></span>
+            <span class="brand-sub">Tech, AI &amp; the Future Web</span>
+          </span>
+        </a>
+
+        <nav class="nav nav-primary" id="nav" aria-label="Primary">
+          <a href="{home}" class="nav-link{active_home}"><span class="nav-link-text">Home</span></a>
+          <a href="{articles}" class="nav-link{active_articles}"><span class="nav-link-text">Articles</span></a>
+          <div class="nav-dropdown">
+            <button class="nav-link nav-dropdown-toggle" type="button" aria-haspopup="true" aria-expanded="false">
+              <span class="nav-link-text">Categories</span>
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="m6 9 6 6 6-6"/></svg>
+            </button>
+            <div class="nav-dropdown-menu">
+              <a href="{articles}?cat=ai">AI &amp; Machine Learning</a>
+              <a href="{articles}?cat=cybersecurity">Cybersecurity</a>
+              <a href="{articles}?cat=gadgets">Gadgets &amp; Hardware</a>
+              <a href="{articles}?cat=web">Web Development</a>
+              <a href="{articles}?cat=cloud">Cloud &amp; DevOps</a>
+              <a href="{articles}?cat=programming">Programming</a>
+            </div>
+          </div>
+          <a href="{about}" class="nav-link{active_about}"><span class="nav-link-text">About</span></a>
+        </nav>
+
+        <div class="header-actions">
+          <form class="site-search" id="siteSearchForm" role="search" aria-label="Search articles">
+            <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+            <input type="search" id="siteSearch" placeholder="Search articles..." autocomplete="off" aria-label="Search articles" />
+            <button type="submit" class="search-submit" aria-label="Search">Go</button>
+            <div id="searchResults" class="search-results" role="listbox"></div>
+          </form>
+          <a href="{articles}" class="header-cta">Read Articles</a>
+        </div>
+
+        <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span></span><span></span><span></span>
         </button>
-        <div id="searchResults" class="search-results" role="listbox"></div>
-      </form>
-
-      <nav class="nav" id="nav">
-        <a href="../index.html" class="nav-link">Home</a><a href="../articles/index.html" class="nav-link active">Articles</a><a href="../about/index.html" class="nav-link">About</a><a href="../contact/index.html" class="nav-link">Contact</a><a href="../privacy/index.html" class="nav-link">Privacy</a>
-      </nav>
-      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">☰</button>
+      </div>
     </div>
   </header>
 

@@ -5,8 +5,9 @@
   var nav = document.getElementById('nav');
   if (toggle && nav) {
     toggle.addEventListener('click', function () {
-      nav.classList.toggle('open');
-      toggle.textContent = nav.classList.contains('open') ? '✕' : '☰';
+      var open = nav.classList.toggle('open');
+      toggle.classList.toggle('is-open', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
     });
   }
 
