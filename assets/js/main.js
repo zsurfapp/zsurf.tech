@@ -24,21 +24,33 @@
     console.log('[zsurf] Consent given — AdSense would load here.');
   }
 
+  function hideBanner() {
+    if (!banner) return;
+    banner.hidden = true;
+    banner.style.display = 'none';
+  }
+
   try {
     var consent = localStorage.getItem(KEY);
     if (banner) {
-      if (!consent) banner.hidden = false;
+      if (consent === 'all') {
+        hideBanner();
+      } else {
+        // No consent yet — show banner
+        banner.hidden = false;
+        banner.style.display = 'flex';
+      }
       if (accept) {
         accept.addEventListener('click', function () {
-          localStorage.setItem(KEY, 'all');
-          banner.hidden = true;
+          try { localStorage.setItem(KEY, 'all'); } catch (e) {}
+          hideBanner();
           loadAdSense();
         });
       }
     }
     // Already accepted previously — load immediately
     if (consent === 'all') loadAdSense();
-  } catch (e) { /* localStorage blocked — fail safe: ask again */ }
+  } catch (e) { /* localStorage blocked — fail safe */ }
 
   // Smooth scroll for in-page anchors
   document.querySelectorAll('a[href^="#"]').forEach(function (a) {

@@ -230,6 +230,7 @@ img { max-width: 100%; display: block; }
   box-shadow: var(--shadow-hover);
   z-index: 200;
 }
+.cookie-banner[hidden] { display: none !important; }
 .cookie-banner p { font-size: 14px; flex: 1; }
 .cookie-banner a { color: #93c5fd; }
 
