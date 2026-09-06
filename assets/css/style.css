@@ -325,3 +325,7 @@ img { max-width: 100%; display: block; }
   .hero-sub { margin-left: auto; margin-right: auto; }
   .hero-footer-line { max-width: 650px; }
 }
+
+@media (max-width: 900px) {
+  .hero-title { text-align: center; width: 100%; }
+}
