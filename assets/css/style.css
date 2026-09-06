@@ -144,11 +144,13 @@ img { max-width: 100%; display: block; }
 }
 .post-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
 
-.post-thumb { display: block; }
+.post-thumb { display: block; overflow: hidden; }
 .thumb {
   width: 100%; height: 180px;
-  background-size: cover; background-position: center;
+  object-fit: cover; object-position: center;
+  display: block; transition: transform .4s ease;
 }
+.post-card:hover .thumb { transform: scale(1.04); }
 /* SVG-generated gradient placeholders (no external images needed) */
 .thumb-ai { background: linear-gradient(135deg, #0a6cff 0%, #6c4cff 100%); }
 .thumb-sec { background: linear-gradient(135deg, #0d1b2a 0%, #1b4965 100%); }
@@ -251,10 +253,11 @@ img { max-width: 100%; display: block; }
 .article-header { margin-bottom: 32px; }
 .article-meta { color: var(--text-mute); font-size: 14px; margin-bottom: 12px; }
 .article-title { font-size: clamp(28px, 4vw, 42px); font-weight: 800; line-height: 1.2; margin-bottom: 16px; }
-.article-hero {
-  width: 100%; height: 320px; border-radius: var(--radius);
-  margin-bottom: 32px;
+.article-hero, .article-hero-img {
+  width: 100%; height: clamp(280px, 38vw, 460px); border-radius: var(--radius);
+  margin-bottom: 32px; background-size: cover; background-position: center;
 }
+.article-hero-img { object-fit: cover; object-position: center; display: block; box-shadow: var(--shadow); }
 .article-body h2 { font-size: 26px; font-weight: 700; margin: 32px 0 14px; }
 .article-body h3 { font-size: 20px; font-weight: 700; margin: 24px 0 10px; }
 .article-body p { font-size: 17px; line-height: 1.75; margin-bottom: 16px; color: #2a3142; }
