@@ -254,10 +254,14 @@ img { max-width: 100%; display: block; }
 .article-meta { color: var(--text-mute); font-size: 14px; margin-bottom: 12px; }
 .article-title { font-size: clamp(28px, 4vw, 42px); font-weight: 800; line-height: 1.2; margin-bottom: 16px; }
 .article-hero, .article-hero-img {
-  width: 100%; height: clamp(280px, 38vw, 460px); border-radius: var(--radius);
-  margin-bottom: 32px; background-size: cover; background-position: center;
+  width: 100%; height: auto; max-height: 480px; aspect-ratio: 16 / 9;
+  border-radius: var(--radius); margin-bottom: 32px;
+  background-size: cover; background-position: center;
 }
-.article-hero-img { object-fit: cover; object-position: center; display: block; box-shadow: var(--shadow); }
+.article-hero-img {
+  object-fit: cover; object-position: center; display: block;
+  box-shadow: var(--shadow); background: var(--bg-soft);
+}
 .article-body h2 { font-size: 26px; font-weight: 700; margin: 32px 0 14px; }
 .article-body h3 { font-size: 20px; font-weight: 700; margin: 24px 0 10px; }
 .article-body p { font-size: 17px; line-height: 1.75; margin-bottom: 16px; color: #2a3142; }
