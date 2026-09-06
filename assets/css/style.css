@@ -277,6 +277,18 @@ img { max-width: 100%; display: block; }
   background: rgba(10,108,255,0.05); margin: 20px 0;
   font-style: italic; color: var(--text-soft);
 }
+.article-body table.data-table { width: 100%; border-collapse: collapse; margin: 24px 0 28px; font-size: 15px; box-shadow: var(--shadow); border-radius: var(--radius); overflow: hidden; background: var(--bg-card); border: 1px solid var(--border); }
+.article-body table.data-table thead th { background: var(--bg-soft); color: var(--text); font-weight: 700; text-align: left; padding: 12px 14px; border-bottom: 2px solid var(--border); font-size: 13px; text-transform: uppercase; letter-spacing: .5px; }
+.article-body table.data-table tbody td { padding: 11px 14px; border-bottom: 1px solid var(--border); color: #2a3142; }
+.article-body table.data-table tbody tr:nth-child(even) td { background: #fafbfd; }
+.article-body table.data-table tbody tr:hover td { background: rgba(10,108,255,.04); }
+.article-body table.data-table tbody tr:last-child td { border-bottom: 0; }
+.article-body table.data-table th:first-child, .article-body table.data-table td:first-child { font-weight: 600; }
+.video-embed { margin: 28px 0 32px; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); border: 1px solid var(--border); background: #000; }
+.video-embed iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; display: block; }
+.video-embed .video-caption { background: var(--bg-soft); color: var(--text-mute); font-size: 13px; padding: 8px 14px; margin: 0; border-top: 1px solid var(--border); }
+.article-body ul li strong, .article-body ol li strong { color: var(--text); }
+.article-body p strong { color: var(--text); }
 
 /* ===== Article list ===== */
 .article-list { max-width: var(--maxw); margin: 0 auto; padding: 40px 24px 80px; }
