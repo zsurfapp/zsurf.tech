@@ -14,13 +14,24 @@
     <div class="container nav-wrap">
       <a href="../index.html" class="logo"><span class="logo-text">zsurf<span class="dot">.tech</span></span></a>
 
+      <button class="search-toggle" id="searchToggle" type="button" aria-label="Open search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+
       <form class="site-search" id="siteSearchForm" role="search" aria-label="Search articles">
-        <input type="search" id="siteSearch" placeholder="Search 76 articles..." autocomplete="off" aria-label="Search articles" />
+        <input type="search" id="siteSearch" placeholder="Search articles..." autocomplete="off" aria-label="Search articles" />
         <button type="submit" class="search-submit" aria-label="Search">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
         </button>
         <div id="searchResults" class="search-results" role="listbox"></div>
       </form>
+
+      <nav class="nav" id="nav">
+        <a href="../index.html" class="nav-link">Home</a><a href="../articles/index.html" class="nav-link">Articles</a><a href="../about/index.html" class="nav-link active">About</a><a href="../contact/index.html" class="nav-link">Contact</a><a href="../privacy/index.html" class="nav-link">Privacy</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">☰</button>
+    </div>
+  </header>
 
       <nav class="nav" id="nav">
         <a href="../index.html" class="nav-link">Home</a>

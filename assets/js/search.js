@@ -103,6 +103,7 @@
     var input = document.getElementById('siteSearch');
     var dropdown = document.getElementById('searchResults');
     var form = document.getElementById('siteSearchForm');
+    var toggle = document.getElementById('searchToggle');
     var nav = document.getElementById('nav');
 
     if (!input || !dropdown || !form) return;
@@ -142,14 +143,32 @@
       if (e.key === 'Escape') {
         input.value = '';
         close(dropdown);
+        if (form.classList) form.classList.remove('is-open');
         input.blur();
+        if (toggle) toggle.focus();
       }
     });
 
+    // Mobile toggle: open the search box
+    if (toggle) {
+      toggle.addEventListener('click', function (e) {
+        e.preventDefault();
+        form.classList.toggle('is-open');
+        if (form.classList.contains('is-open')) {
+          setTimeout(function () { input.focus(); }, 50);
+        } else {
+          close(dropdown);
+        }
+      });
+    }
+
     // Close on outside click
     document.addEventListener('click', function (e) {
-      if (!form.contains(e.target) && !dropdown.contains(e.target)) {
+      if (form && !form.contains(e.target) && (!toggle || !toggle.contains(e.target))) {
         close(dropdown);
+        if (window.matchMedia('(max-width: 900px)').matches) {
+          form.classList.remove('is-open');
+        }
       }
     });
 
