@@ -1,90 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://zsurf.tech/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://zsurf.tech/articles/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://zsurf.tech/articles/edge-computing-in-2026-why-latency-became-the-new-currency.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/webassembly-goes-mainstream-the-2026-reality-check.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/kubernetes-operators-from-yaml-hell-to-declarative-automation-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/vector-databases-in-2026-postgres-killed-the-standalone.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/passkeys-killed-the-password-the-2026-transition.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/rust-async-stabilized-what-the-ecosystem-looks-like-now-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/macos-26-one-year-later-the-wins-and-the-woes-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/post-quantum-cryptography-the-rollout-nobody-is-ready-for-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/mlops-platforms-compared-12-tools-1-verdict-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/finops-in-2026-the-discipline-that-saved-cloud.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/react-server-components-one-year-of-production-lessons-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/postgresql-18-the-features-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/tpm-attestation-becomes-mandatory-what-changed-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/llm-cost-economics-how-to-spend-less-and-ship-more-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/webassembly-at-the-edge-cloudflare-workers-vs-fastly-compute-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/apple-silicon-mac-pros-the-workstation-tier-arrives-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/grpc-vs-rest-in-2026-when-each-actually-wins.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/soc-2-and-iso-27001-for-startups-the-lean-path-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/small-language-models-are-eating-the-market-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/design-systems-in-2026-tokens-themes-and-tokens-everywhere.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/self-hosting-supabase-when-it-pays-off-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/gitops-face-off-argo-cd-vs-flux-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/tailwind-css-v4-the-framework-that-finally-clicked-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/running-llama-4-locally-a-developer-survival-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/kubernetes-cost-optimization-12-tactics-that-saved-real-money-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/rootless-docker-is-now-production-ready-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/browser-fingerprinting-in-2026-defenses-that-work.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/typescript-6-the-features-worth-the-upgrade-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/svelte-6-runes-reactive-programming-refined-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/ai-code-review-tools-compared-the-real-production-tier-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/vpn-replacement-zero-trust-network-access-in-practice-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-full-specs-and-what-they-mean-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-review-the-best-android-phone-of-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/homelab-2026-the-mini-itx-build-that-punches-above-its-weight.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/ai-camera-comparison-2026-which-phone-takes-the-best-photos.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/best-budget-phones-of-2026-flagship-quality-at-30-percent-the-price.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/best-flagship-phones-of-2026-a-definitive-ranking.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/smartphone-buying-guide-2026-which-phone-should-you-buy.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/opentelemetry-won-what-the-migration-looks-like-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/webassembly-component-model-the-future-of-polyglot-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/bun-vs-deno-vs-node-in-2026-the-javascript-runtime-race.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/passwordless-b2b-saas-the-migration-playbook-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/monorepo-at-scale-pnpm-workspaces-turborepo-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/llm-evals-in-production-beyond-vibes-based-testing-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/edge-databases-in-production-turso-neon-and-d1-compared-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/github-actions-at-scale-monorepo-patterns-that-actually-work-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/secure-software-supply-chain-slsa-sigstore-and-you-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-app-permissions-explained-what-you-are-really-giving-away-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-battery-optimization-12-settings-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-storage-management-how-to-free-up-space-and-keep-it-that-way-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/google-play-store-tips-8-features-most-users-never-discover-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/how-to-disable-autocorrect-on-android-3-proven-methods-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/iphone-hidden-apps-7-features-apple-does-not-advertise-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/fastapi-vs-hono-which-backend-wins-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/how-to-block-ads-on-android-in-2026-the-complete-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-data-backup-guide-how-to-never-lose-a-photo-again-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-recovery-mode-explained-the-complete-survival-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/css-container-queries-in-production-the-pattern-library-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/how-to-run-android-apps-on-windows-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/ai-content-writing-in-2026-the-workflow-that-actually-works.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/rag-vs-fine-tuning-in-2026-the-decision-matrix.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/webassembly-on-mobile-a-real-production-story-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-root-in-2026-what-it-is-why-it-matters-who-should-do-it.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/android-security-in-2026-the-practical-guide-every-user-needs.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/mobile-banking-security-in-2026-how-to-keep-your-money-safe.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/self-sovereign-identity-why-2026-was-the-tipping-point.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/deno-kv-in-production-one-year-of-lessons-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/ai-for-security-defense-what-actually-works-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/cloudflare-workers-in-2026-the-edge-platform-matured.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/rust-vs-go-in-2026-which-should-you-actually-learn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/cutting-your-aws-bill-by-60-without-downsizing-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/12-web-performance-wins-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/vue-4-and-the-composition-api-where-it-stands-now-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/best-laptops-for-developers-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/zero-trust-security-a-practical-starter-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/esp32-projects-that-punch-above-their-weight.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/articles/top-10-ai-tools-reshaping-work-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://zsurf.tech/about/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://zsurf.tech/contact/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://zsurf.tech/privacy/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://zsurf.tech/disclaimer/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://zsurf.tech/terms/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://zsurf.tech/cookie-policy/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://zsurf.tech/dmca/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://zsurf.tech/editorial-standards/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+<url><loc>https://zsurf.tech/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://zsurf.tech/articles/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>https://zsurf.tech/articles/ransomware-defense-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/sbom-supply-chain-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/email-security-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/post-quantum-migration-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/top-10-ai-tools-reshaping-work-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/esp32-projects-that-punch-above-their-weight.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/zero-trust-security-a-practical-starter-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/ai-evaluation-frameworks-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/best-laptops-for-developers-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/vue-4-and-the-composition-api-where-it-stands-now-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/12-web-performance-wins-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/cutting-your-aws-bill-by-60-without-downsizing-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/rust-vs-go-in-2026-which-should-you-actually-learn.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/multimodal-ai-product-design-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/agent-protocols-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/rag-vs-context-window-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/cloudflare-workers-in-2026-the-edge-platform-matured.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/claude-code-vs-cursor-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/open-source-llm-benchmarks-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/ai-agents-2026-production.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/ai-for-security-defense-what-actually-works-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/deno-kv-in-production-one-year-of-lessons-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/self-sovereign-identity-why-2026-was-the-tipping-point.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/mobile-banking-security-in-2026-how-to-keep-your-money-safe.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-security-in-2026-the-practical-guide-every-user-needs.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-root-in-2026-what-it-is-why-it-matters-who-should-do-it.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/webassembly-on-mobile-a-real-production-story-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/rag-vs-fine-tuning-in-2026-the-decision-matrix.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/ai-content-writing-in-2026-the-workflow-that-actually-works.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/how-to-run-android-apps-on-windows-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/css-container-queries-in-production-the-pattern-library-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-recovery-mode-explained-the-complete-survival-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-data-backup-guide-how-to-never-lose-a-photo-again-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/how-to-block-ads-on-android-in-2026-the-complete-guide.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/fastapi-vs-hono-which-backend-wins-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/iphone-hidden-apps-7-features-apple-does-not-advertise-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/how-to-disable-autocorrect-on-android-3-proven-methods-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/google-play-store-tips-8-features-most-users-never-discover-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-storage-management-how-to-free-up-space-and-keep-it-that-way-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-battery-optimization-12-settings-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/android-app-permissions-explained-what-you-are-really-giving-away-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/secure-software-supply-chain-slsa-sigstore-and-you-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/github-actions-at-scale-monorepo-patterns-that-actually-work-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/edge-databases-in-production-turso-neon-and-d1-compared-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/llm-evals-in-production-beyond-vibes-based-testing-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/monorepo-at-scale-pnpm-workspaces-turborepo-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/passwordless-b2b-saas-the-migration-playbook-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/bun-vs-deno-vs-node-in-2026-the-javascript-runtime-race.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/webassembly-component-model-the-future-of-polyglot-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/opentelemetry-won-what-the-migration-looks-like-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/smartphone-buying-guide-2026-which-phone-should-you-buy.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/best-flagship-phones-of-2026-a-definitive-ranking.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/best-budget-phones-of-2026-flagship-quality-at-30-percent-the-price.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/ai-camera-comparison-2026-which-phone-takes-the-best-photos.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/homelab-2026-the-mini-itx-build-that-punches-above-its-weight.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-full-specs-and-what-they-mean-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/samsung-galaxy-s26-ultra-review-the-best-android-phone-of-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/vpn-replacement-zero-trust-network-access-in-practice-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/ai-code-review-tools-compared-the-real-production-tier-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/svelte-6-runes-reactive-programming-refined-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/typescript-6-the-features-worth-the-upgrade-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/browser-fingerprinting-in-2026-defenses-that-work.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/rootless-docker-is-now-production-ready-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/kubernetes-cost-optimization-12-tactics-that-saved-real-money-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/running-llama-4-locally-a-developer-survival-guide-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/tailwind-css-v4-the-framework-that-finally-clicked-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/gitops-face-off-argo-cd-vs-flux-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/self-hosting-supabase-when-it-pays-off-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/design-systems-in-2026-tokens-themes-and-tokens-everywhere.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/small-language-models-are-eating-the-market-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/soc-2-and-iso-27001-for-startups-the-lean-path-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/grpc-vs-rest-in-2026-when-each-actually-wins.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/apple-silicon-mac-pros-the-workstation-tier-arrives-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/webassembly-at-the-edge-cloudflare-workers-vs-fastly-compute-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/llm-cost-economics-how-to-spend-less-and-ship-more-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/tpm-attestation-becomes-mandatory-what-changed-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/postgresql-18-the-features-that-actually-matter-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/react-server-components-one-year-of-production-lessons-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/finops-in-2026-the-discipline-that-saved-cloud.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/mlops-platforms-compared-12-tools-1-verdict-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/post-quantum-cryptography-the-rollout-nobody-is-ready-for-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/macos-26-one-year-later-the-wins-and-the-woes-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/rust-async-stabilized-what-the-ecosystem-looks-like-now-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/passkeys-killed-the-password-the-2026-transition.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/vector-databases-in-2026-postgres-killed-the-standalone.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/kubernetes-operators-from-yaml-hell-to-declarative-automation-in-2026.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/webassembly-goes-mainstream-the-2026-reality-check.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/articles/edge-computing-in-2026-why-latency-became-the-new-currency.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://zsurf.tech/about/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/contact/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/privacy/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/terms/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/disclaimer/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/cookie-policy/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/editorial-standards/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://zsurf.tech/dmca/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 </urlset>
