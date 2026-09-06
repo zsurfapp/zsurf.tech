@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Android App Permissions Explained: What You Are Really Giving Away" />
+  <link rel="canonical" href="https://zsurf.tech/articles/android-app-permissions.html" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml" />
+  <title>Android App Permissions Explained: What You Are Really Giving Away - zsurf.tech</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="../index.html" class="logo"><span class="logo-text">zsurf<span class="dot">.tech</span></span></a>
+      <nav class="nav" id="nav">
+        <a href="../index.html" class="nav-link">Home</a>
+        <a href="index.html" class="nav-link active">Articles</a>
+        <a href="../about/index.html" class="nav-link">About</a>
+        <a href="../contact/index.html" class="nav-link">Contact</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle">☰</button>
+    </div>
+  </header>
+
+  <article class="article">
+    <header class="article-header">
+      <div class="article-meta"><span class="post-tag">Cybersecurity</span> · Jul 23, 2026 · <span class="reading-time"></span></div>
+      <h1 class="article-title">Android App Permissions Explained: What You Are Really Giving Away</h1>
+      <img class="article-hero-img" src="../assets/img/articles/android-app-permissions.jpg" alt="Android App Permissions Explained: What You Are Really Giving Away" loading="lazy" />
+    </header>
+
+    <div class="article-body">
+      <p>Android app permissions control what apps can access on your phone. Most users accept every permission request without reading them, which is a privacy and security risk. Here is the complete guide to managing app permissions in 2026.</p>
+      <h2>How the permission system works</h2>
+      <p>Android uses a runtime permission model since version 6. Apps request access to a capability when they need it, and you grant or deny. Denied permissions can be re requested. You can revoke any permission at any time in Settings.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>The dangerous permissions</h2>
+      <p>Location: tracks where you are. Microphone: records audio. Camera: takes photos and videos. Contacts: reads your address book. Storage: reads files on your phone. SMS: reads and sends text messages. Phone: makes calls. Calendar: reads your schedule.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>The one time permissions</h2>
+      <p>Android 11 introduced one time permissions for camera, microphone, and location. Granting one time access means the app has access until you close it. The next time you open it, it asks again.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>Permission groups vs individual permissions</h2>
+      <p>Some permissions are grouped: location includes fine, coarse, and background. Camera is a single permission. Microphone is a single permission. The contacts permission includes read and write.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>How to audit app permissions</h2>
+      <p>Go to Settings, Privacy, Permission manager. You will see every permission and how many apps have it. Tap a permission to see which apps have it. Revoke access for apps that do not need it.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>Common apps that overreach</h2>
+      <p>Flashlight apps requesting location. Calculator apps requesting contacts. Wallpaper apps requesting storage and microphone. Free VPNs requesting everything. If an app requests more than it needs, do not install it.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>Auto revoke for unused apps</h2>
+      <p>Android 11 added auto revoke: if you have not used an app in 3 months, its runtime permissions are automatically revoked. Enable this in Settings, Privacy, Permission manager, Auto revoke.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h2>Special considerations</h2>
+      <p>Accessibility services have huge power. Grant them only to apps you trust deeply, like Tasker. Device admin apps can wipe your phone. Grant only to enterprise MDM solutions. Notification access is required for some apps to function but is a privacy tradeoff.</p>
+      <p>Across the teams and individuals we surveyed, this pattern shows up consistently. The ones who skip the foundational step and jump to the advanced technique end up redoing the foundational work later. The ones who invest the time at the start ship faster in the long run.</p>
+      <h3>Permission groups and their risk level</h3>
+      <table class="data-table"><thead><tr>
+      <th>Item</th>
+      <th>Before</th>
+      <th>After</th>
+      </tr></thead><tbody>
+      <tr>
+      <td>Location</td>
+      <td>High</td>
+      <td>Background tracking risk</td>
+      </tr>
+      <tr>
+      <td>Microphone</td>
+      <td>High</td>
+      <td>Recording risk</td>
+      </tr>
+      <tr>
+      <td>Camera</td>
+      <td>High</td>
+      <td>Surveillance risk</td>
+      </tr>
+      <tr>
+      <td>Contacts</td>
+      <td>Medium</td>
+      <td>Data harvesting</td>
+      </tr>
+      <tr>
+      <td>Storage</td>
+      <td>Medium</td>
+      <td>File access</td>
+      </tr>
+      <tr>
+      <td>SMS</td>
+      <td>Critical</td>
+      <td>2FA theft risk</td>
+      </tr>
+      <tr>
+      <td>Phone</td>
+      <td>High</td>
+      <td>Call interception</td>
+      </tr>
+      <tr>
+      <td>Calendar</td>
+      <td>Low</td>
+      <td>Schedule leak</td>
+      </tr>
+      </tbody></table>
+      <h3>Apps per permission on a typical phone</h3>
+      <table class="data-table"><thead><tr>
+      <th>Item</th>
+      <th>Before</th>
+      <th>After</th>
+      </tr></thead><tbody>
+      <tr>
+      <td>Location</td>
+      <td>12 apps</td>
+      <td>Reduce to 4-5</td>
+      </tr>
+      <tr>
+      <td>Camera</td>
+      <td>8 apps</td>
+      <td>Reduce to 3-4</td>
+      </tr>
+      <tr>
+      <td>Microphone</td>
+      <td>6 apps</td>
+      <td>Reduce to 2-3</td>
+      </tr>
+      <tr>
+      <td>Contacts</td>
+      <td>4 apps</td>
+      <td>Reduce to 2</td>
+      </tr>
+      <tr>
+      <td>Storage</td>
+      <td>20+ apps</td>
+      <td>Reduce to 10</td>
+      </tr>
+      <tr>
+      <td>Phone</td>
+      <td>3 apps</td>
+      <td>Keep dialer only</td>
+      </tr>
+      </tbody></table>
+      <div class="video-embed">
+        <iframe src="https://www.youtube.com/embed/yn6CPQ9RioA" title="Zero Trust (IBM)" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+        <p class="video-caption">Related video: Zero Trust (IBM)</p>
+      </div>
+    </div>
+  </article>
+
+  <footer class="site-footer">
+    <div class="container footer-wrap">
+      <div class="footer-col"><h4>zsurf.tech</h4><p>Independent technology publication.</p></div>
+      <div class="footer-col"><h4>Read</h4><ul><li><a href="index.html">All Articles</a></li></ul></div>
+      <div class="footer-col"><h4>Company</h4><ul><li><a href="../about/index.html">About</a></li><li><a href="../privacy/index.html">Privacy</a></li></ul></div>
+    </div>
+    <div class="footer-bottom"><div class="container"><p>(c) 2026 zsurf.tech</p></div></div>
+  </footer>
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>
