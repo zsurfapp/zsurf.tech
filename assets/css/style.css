@@ -53,15 +53,15 @@ img { max-width: 100%; display: block; }
   display: flex; align-items: center; justify-content: space-between;
   padding: 16px 24px;
 }
-.logo { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 20px; color: var(--text); }
+.logo { display: flex; align-items: center; gap: 0; font-weight: 700; font-size: 20px; color: #000; }
 .logo-mark {
   display: inline-flex; align-items: center; justify-content: center;
   width: 32px; height: 32px; border-radius: 8px;
   background: linear-gradient(135deg, var(--brand), var(--accent));
   color: #fff; font-weight: 800;
 }
-.logo-text { letter-spacing: -0.5px; }
-.logo .dot { color: var(--brand); }
+.logo-text { letter-spacing: -0.5px; color: #000; }
+.logo .dot { color: #000; }
 
 .nav { display: flex; gap: 28px; }
 .nav-link {
