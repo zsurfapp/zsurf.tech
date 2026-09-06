@@ -81,23 +81,23 @@ img { max-width: 100%; display: block; }
 }
 
 /* ===== Hero ===== */
-.hero { position:relative; overflow:hidden; isolation:isolate; min-height:610px; display:flex; align-items:center; padding:108px 0 92px; background:var(--bg); color:var(--text); border-bottom:1px solid var(--border); }
+.hero { position:relative; overflow:hidden; isolation:isolate; min-height:610px; display:flex; align-items:center; padding:108px 0 92px; background:#080b12; color:#fff; }
 .hero-content { position:relative; z-index:2; width:100%; animation:hero-reveal .9s cubic-bezier(.2,.8,.2,1) both; }
-.hero-kicker { display:flex; align-items:center; gap:12px; color:var(--text-soft); font-size:11px; font-weight:700; letter-spacing:2px; text-transform:uppercase; }
-.kicker-live { display:inline-flex; align-items:center; gap:6px; color:#138a45; font-size:10px; letter-spacing:1px; border:1px solid rgba(19,138,69,.3); border-radius:100px; padding:5px 9px; }
-.kicker-live i { width:5px; height:5px; border-radius:50%; background:#16a34a; box-shadow:0 0 12px rgba(22,163,74,.7); animation:live-pulse 1.6s infinite; }
-.hero-title { margin-top:25px; max-width:900px; color:var(--text); font-size:clamp(52px,9vw,112px); line-height:.91; font-weight:800; letter-spacing:-6px; }
+.hero-kicker { display:flex; align-items:center; gap:12px; color:#9ba4b5; font-size:11px; font-weight:700; letter-spacing:2px; text-transform:uppercase; }
+.kicker-live { display:inline-flex; align-items:center; gap:6px; color:#8dffb2; font-size:10px; letter-spacing:1px; border:1px solid rgba(141,255,178,.3); border-radius:100px; padding:5px 9px; }
+.kicker-live i { width:5px; height:5px; border-radius:50%; background:#8dffb2; box-shadow:0 0 12px #8dffb2; animation:live-pulse 1.6s infinite; }
+.hero-title { margin-top:25px; max-width:900px; color:#fff; font-size:clamp(52px,9vw,112px); line-height:.91; font-weight:800; letter-spacing:-6px; }
 .hero-title span { color:#8590a5; }
-.hero-sub { max-width:590px; margin:30px 0 34px; color:var(--text-soft); font-size:clamp(17px,2vw,20px); line-height:1.6; }
+.hero-sub { max-width:590px; margin:30px 0 34px; color:#aab2c1; font-size:clamp(17px,2vw,20px); line-height:1.6; }
 .hero-actions { display:flex; align-items:center; gap:26px; }
 .hero-actions .btn { box-shadow:0 0 0 1px rgba(10,108,255,.1),0 12px 35px rgba(10,108,255,.16); }
 .hero-actions .btn span { display:inline-block; margin-left:10px; transition:transform .25s; }
 .hero-actions .btn:hover span { transform:translate(4px,-4px); }
-.hero-link { color:var(--text); font-size:14px; font-weight:650; }
-.hero-link span { color:#138a45; margin-left:7px; transition:transform .25s; display:inline-block; }
+.hero-link { color:#e7ebf2; font-size:14px; font-weight:650; }
+.hero-link span { color:#8dffb2; margin-left:7px; transition:transform .25s; display:inline-block; }
 .hero-link:hover span { transform:translateY(4px); }
-.hero-footer-line { display:flex; align-items:center; gap:16px; max-width:570px; margin-top:82px; color:var(--text-mute); font-size:10px; font-weight:700; letter-spacing:1.7px; }
-.hero-line { height:1px; flex:1; background:linear-gradient(90deg,var(--border),transparent); }
+.hero-footer-line { display:flex; align-items:center; gap:16px; max-width:570px; margin-top:82px; color:#687286; font-size:10px; font-weight:700; letter-spacing:1.7px; }
+.hero-line { height:1px; flex:1; background:linear-gradient(90deg,#30394a,transparent); }
 .hero-grid { position:absolute; inset:0; z-index:-1; opacity:.45; background-image:linear-gradient(rgba(10,108,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(10,108,255,.06) 1px,transparent 1px); background-size:64px 64px; mask-image:linear-gradient(90deg,black,transparent 75%); }
 .hero-noise { position:absolute; inset:0; z-index:-1; opacity:.025; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.6'/%3E%3C/svg%3E"); }
 .hero-orbit { position:absolute; border:1px solid rgba(10,108,255,.12); border-radius:50%; z-index:-1; transform:rotate(-24deg); }
