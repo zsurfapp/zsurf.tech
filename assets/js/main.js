@@ -11,6 +11,16 @@
     });
   }
 
+  // Categories dropdown toggle (click-to-open on all devices)
+  document.querySelectorAll('.nav-dropdown-toggle').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      var parent = btn.parentElement;
+      var expanded = parent.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+    });
+  });
+
   // Cookie consent removed: banner and consent handling are disabled.
 
   // Smooth scroll for in-page anchors
