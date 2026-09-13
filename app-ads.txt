@@ -1,3 +1,18 @@
+#Ads.txt zsurf.tech
+ownerdomain=zsurf.tech
+contact=directsales@ezoic.com
+managerdomain=ezoic.ai
+
+ezoic.ai, dda03652651fc4e33a746efd3b092642, DIRECT
+google.com, pub-6644558441501035, DIRECT, f08c47fec0942fa0
+google.com, pub-1175987143200523, RESELLER, f08c47fec0942fa0
+google.com, pub-4152552776930088, DIRECT, f08c47fec0942fa0
+media.net, 8CAAT6RE8, DIRECT
+sharethrough.com, PmzCMtAd, DIRECT, d53b998a7bd4ecd2
+google.com, pub-9508156287817487, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2483, RESELLER
+sonobi.com, c2988be809, RESELLER, d1a215d9eb5aee9e
+media.net, 8CUM5Z5B0, DIRECT
+# ZSURF direct (Android app)
 google.com, pub-7027543006786779, DIRECT, f08c47fec0942fa0
 facebook.com, 1435364908457926, DIRECT, 1a11614c367d35c2
-# Ezoic - to be added after Ezoic account integration (publisher ID needed)
